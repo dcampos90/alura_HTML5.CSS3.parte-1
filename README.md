@@ -6,4 +6,4 @@ Projeto realizado na Alura, Julho 2022
 
 ❐ [Certificado](https://cursos.alura.com.br/certificate/8416ce10-7a83-4210-82fa-bef36610bfe5)
 
-❐ [Website do projeto]() 
+❐ [Website do projeto](https://dcampos90.github.io/alura_HTML5.CSS3.parte-1/) 
